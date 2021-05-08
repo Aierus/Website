@@ -1,4 +1,4 @@
-baseURL = "http://andyrclark.com"
+baseURL = "github.com/Aierus/Aierus.github.io"
 languageCode = "en-us"
 title = "_"
 theme = "hyde-x"
