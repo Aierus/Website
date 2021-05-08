@@ -1,0 +1,29 @@
+baseURL = "http://andyrclark.com"
+languageCode = "en-us"
+title = "_"
+theme = "hyde-x"
+
+[author]
+  name = "Andy Clark"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/aierus/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/andy-clark3/"},
+      {Name = "Resume", URL = "andrewclarkresume.PDF"},
+      {Name = "About Me", URL = "aboutme.md"}
+  ]
+
+  [params]
+    home = "Home"
+    gravatarHash = "538e7ae341880ada61618eb183bbe38d"
+    tagline = "Is life not a thousand times too short for us to bore ourselves?"
+    hideReadingTime = true
+    highlight = "github"
+    theme = "theme"
+    paginate = 10
+
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
