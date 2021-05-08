@@ -1,4 +1,4 @@
-baseURL = "aierus.github.io/"
+baseURL = "aierus.github.io/public"
 languageCode = "en-us"
 title = "_"
 theme = "hyde-x"
