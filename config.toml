@@ -1,4 +1,4 @@
-baseURL = "aierus.github.io/public"
+baseURL = "//andyrclark.com"
 languageCode = "en-us"
 title = "_"
 theme = "hyde-x"
@@ -11,7 +11,7 @@ theme = "hyde-x"
       {Name = "Github", URL = "https://github.com/aierus/"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/andy-clark3/"},
       {Name = "Resume", URL = "andrewclarkresume.PDF"},
-      {Name = "About Me", URL = "aboutme.md"}
+      {Name = "About Me", URL = "aboutme/aboutme"}
   ]
 
   [params]

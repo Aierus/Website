@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andy&#39;s Website on _</title>
-    <link>//andyrclark.com/</link>
-    <description>Recent content in Andy&#39;s Website on _</description>
+    <title>Aboutmes on _</title>
+    <link>//andyrclark.com/aboutme/</link>
+    <description>Recent content in Aboutmes on _</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 May 2021 21:01:16 -0400</lastBuildDate><atom:link href="//andyrclark.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 May 2021 21:01:16 -0400</lastBuildDate><atom:link href="//andyrclark.com/aboutme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>//andyrclark.com/aboutme/aboutme/</link>

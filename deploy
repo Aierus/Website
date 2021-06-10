@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=andyclark1
+HOST=andyrclark.com     
+DIR=/var/www/andyrclark  
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+exit 0
